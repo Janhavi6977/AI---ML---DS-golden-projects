@@ -1,1 +1,1 @@
-# CVIP-DataScience_Intern
+# DataScience_Aritificial Intelligence_Machine Learning Projects
